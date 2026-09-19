@@ -15,7 +15,4 @@ Use the `adr-writer` skill to add an ADR.
 
 | ADR | Title | Status | Date |
 |-----|-------|--------|------|
-| _none yet_ | | | |
-
-> Product and architecture decisions get recorded here as the project takes
-> shape (idea → PRD → ADR).
+| [0001](adr/0001-storage-repository-interface.md) | Storage behind a repository interface (in-memory first, SQLite swap) | Accepted | 2026-09-19 |
