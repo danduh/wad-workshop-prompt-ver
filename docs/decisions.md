@@ -16,3 +16,4 @@ Use the `adr-writer` skill to add an ADR.
 | ADR | Title | Status | Date |
 |-----|-------|--------|------|
 | [0001](adr/0001-storage-repository-interface.md) | Storage behind a repository interface (in-memory first, SQLite swap) | Accepted | 2026-09-19 |
+| [0002](adr/0002-immutable-versions-id-and-hash.md) | Immutable versions: monotonic id + content hash | Accepted | 2026-09-19 |
