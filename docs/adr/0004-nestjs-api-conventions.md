@@ -19,7 +19,8 @@ must depend on nothing), and the web app must not drag server-only packages.
   (`whitelist`, `transform`) plus a global **exception filter** for a consistent
   error shape.
 - OpenAPI / Swagger is compatible and may be added later, but is not required for
-  the MVP.
+  the MVP. **— Superseded by [ADR-0005](0005-openapi-swagger.md): Swagger is now
+  required.**
 
 ## Example
 

@@ -19,3 +19,4 @@ Use the `adr-writer` skill to add an ADR.
 | [0002](adr/0002-immutable-versions-id-and-hash.md) | Immutable versions: monotonic id + content hash | Accepted | 2026-09-19 |
 | [0003](adr/0003-labels-as-movable-pointers.md) | Labels as movable pointers; `production` default; rollback re-points | Accepted | 2026-09-19 |
 | [0004](adr/0004-nestjs-api-conventions.md) | NestJS API conventions: shared types + validated DTOs | Accepted | 2026-09-19 |
+| [0005](adr/0005-openapi-swagger.md) | Expose the API via OpenAPI / Swagger (supersedes 0004's optional clause) | Accepted | 2026-09-20 |
