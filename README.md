@@ -20,5 +20,5 @@ finishes cleanly, you're ready:
 ```bash
 git clone https://github.com/danduh/wad-workshop-prompt-ver.git
 cd wad-workshop-prompt-ver
-npm install
+npm install --force
 ```
